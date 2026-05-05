@@ -157,5 +157,22 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
 
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.0.18-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.0.18-fdroid_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) |
+| `v2rayNG_2.0.18-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_x86.apk) |
+| `v2rayNG_2.0.18-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_x86_64.apk) |
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_armeabi-v7a.apk) |
+| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) |
+| `v2rayNG_2.0.18_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_x86.apk) |
+| `v2rayNG_2.0.18_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezam/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_x86_64.apk) |
 <!-- RELEASES_END -->
