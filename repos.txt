@@ -4,4 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-2dust/v2rayNG
+B3hnamR/psiphonOverMITM/
